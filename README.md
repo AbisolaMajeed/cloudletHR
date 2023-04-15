@@ -23,7 +23,7 @@ If you don't feel like reading, Laracasts can help. Laracasts contains over 1500
 
 ## How to set up
 
-- Clone application repository | git clone https://ENT-SS@bitbucket.org/ss-enterprise-apps/ssl-cloud-v2-website.git
+- Clone application repository | git clone https://github.com/AbisolaMajeed/cloudletHR.git
 - Install and setup PHP, Laravel and Composer
 - Run composer install
 - Copy and edit .env.example to .env
