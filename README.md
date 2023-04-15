@@ -1,6 +1,6 @@
-## About SSL-Cloud-Api-v2
+## About CloudletHR
 
-SSLCloud HRMS is a secure cloud hosted platform used to manage human resources and related processes throughout the employee lifecycle. It combines all the functions of a complete enterprise level human resource team into a number of modules. The version 2 of this application will provide better performance, improved interfaces and additional functionalities.
+CloudletHR is an entry website to a web application used to manage human resources and related processes throughout the employee lifecycle. It provides an overview of all the functions of a complete enterprise level human resource team as features of the website. 
 
 ## Features of SSL-Cloud-v2-website
 
@@ -13,7 +13,7 @@ SSLCloud website has the following features:
 - Feedback
 - Chat box
 - View Demo video (videos displaying a walkthrough of the application and its features) and
-- Get started (directs one to the purchases application)
+- Get started (directs one to the web application)
 
 ## Framework
 
@@ -35,22 +35,12 @@ If you don't feel like reading, Laracasts can help. Laracasts contains over 1500
 - [PHP](https://www.php.net/) | PHP 7.4.8
 - [Laravel](https://laravel.com) | Laravel Framework 8.83.23
 
-## Contributors
-
-- Abisola Majeed
-- Ebenezer Babalola
-- Seun Ogunsanya
-- Ayotunde Perdro
-
 ## Edited by
 
 - Abisola Majeed
-- Ebenezer Babalola
 
 ## Security Vulnerabilities
 
 ## License
-
-The SSL-Cloud-Api-v2 is a software licensed under the SSL-Limited.
 
 ## Resources
